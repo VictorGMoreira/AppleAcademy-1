@@ -67,7 +67,7 @@
 
 </div>
 
-<h6>Imagem das telas</h6>
+<h6>Imagens do Aplicativo</h6>
 
 
 <h6>GitHub dos integrantes da equipe</h6>
