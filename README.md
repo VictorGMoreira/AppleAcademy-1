@@ -63,7 +63,7 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <h5>Notion</h5>
+  <h5>Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores</h5>
 
 </div>
 
