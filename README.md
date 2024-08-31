@@ -9,7 +9,7 @@
 </div>
 
 
-![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/ee058448-5d0c-4bce-8c75-ff39cff55c82)
+![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
 
 
 <h6>O que é CBL (Challenge Based Learning)?</h6>
