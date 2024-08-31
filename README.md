@@ -9,6 +9,9 @@
 </div>
 
 
+![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/ee058448-5d0c-4bce-8c75-ff39cff55c82
+
+
 <h6>O que é CBL (Challenge Based Learning)?</h6>
 <h5>A metodologia de Aprendizagem Baseada em Casos (CBL) é uma abordagem educacional que se concentra na aprendizagem ativa e no desenvolvimento de habilidades de resolução de problemas. Nesta metodologia, os estudantes são expostos a casos ou situações do mundo real que representam desafios ou questões complexas relacionadas ao conteúdo do curso. Os alunos são incentivados a analisar, discutir e resolver esses casos, aplicando conhecimentos teóricos anteriores, pesquisando informações adicionais e colaborando com seus colegas.</h5>
 
