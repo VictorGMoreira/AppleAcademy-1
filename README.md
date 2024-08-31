@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin: 20px 0;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo"/>
-    <h1>Apple Academy</h1>
+    <h1 style="margin: 0;">Apple Academy</h1>
 </div>
 
 <h6>O que é CBL (Challenge Based Learning)?</h6>
@@ -17,7 +17,7 @@
 
 <h6>Ferramentas utilizadas</h6>
 
-<div>
+<div style="text-align: center;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/>
     <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>   
     <img height="70" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"/> 
@@ -25,6 +25,7 @@
 
 <h6>Linguagem utilizada</h6>
 
-<div>
+<div style="text-align: center;">
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div>
+
