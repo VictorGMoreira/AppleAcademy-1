@@ -1,14 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
 
-<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto;">
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo"/>
 </div>
 
-<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto;">
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
   <strong>Equipe 10 - Apple Academy IFCE</strong>
 </div>
 
-![TourTrack_20240831_133916_0000.png](https://github.com/user-attachments/assets/d42b83f8-9137-438a-bfcc-8303cd7c8cee)
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/d42b83f8-9137-438a-bfcc-8303cd7c8cee" alt="TourTrack" style="width: 50%;"/>
+</div>
 
 <h6>O que é CBL (Challenge Based Learning)?</h6>
 <p>A metodologia de Aprendizagem Baseada em Casos (CBL) é uma abordagem educacional que se concentra na aprendizagem ativa e no desenvolvimento de habilidades de resolução de problemas. Nesta metodologia, os estudantes são expostos a casos ou situações do mundo real que representam desafios ou questões complexas relacionadas ao conteúdo do curso. Os alunos são incentivados a analisar, discutir e resolver esses casos, aplicando conhecimentos teóricos anteriores, pesquisando informações adicionais e colaborando com seus colegas.</p>
