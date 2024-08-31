@@ -1,13 +1,11 @@
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2b604c&height=120&section=header"/>
 
-<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 100px;">
-    <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo" style="margin-bottom: 40px;"/>
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 60px;">
+    <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo" style="margin-bottom: 50px;"/>
 </div>
 
 
-<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 400px;">
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
   <strong>Equipe 10 - Apple Academy IFCE</strong>
 </div>
 
@@ -18,7 +16,6 @@
 
 
 <h5>💡 Big idea</h5>
-
 
 ```
 print("Turismo.")
