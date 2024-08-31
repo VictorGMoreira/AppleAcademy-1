@@ -102,9 +102,9 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
   <h5>GitHub dos integrantes da equipe:</h5>
 </div>
 
-- [Integrante 1](https://github.com/integrante1)
-- [Integrante 2](https://github.com/integrante2)
-- [Integrante 3](https://github.com/integrante3)
+- [Gustavo Henrique](https://github.com/GustavoHenrique07)
+- [Ruth Rodrigues](https://github.com/ruthrodrigues)
+- [Victor Gabriel](https://github.com/VictorGMoreira)
 
 <div style="text-align: center; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; background-color: #f8f8f8; max-width: 400px; margin: auto;">
 
