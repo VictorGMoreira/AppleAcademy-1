@@ -31,7 +31,7 @@
 
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <h5>O Xcode fornece um Ecossistema Integrado, onde o desenvolvedor pode programar para multiplataformas dos dispositivos Apple (iOS, iPadOS, macOS, tvOS e watchOS), promove um Desenvolvimento Eficiente na qual com os recursos como Auto Layout e Interface Builder, o Xcode simplifica o design de interfaces responsivas e visualmente atraentes. Por fim há a Colaboração Simplificada que permite o versionamento de projetos através do Git integrado que garante uma experiência coesa, mesmo em projetos complexos.</h5>
+  >O Xcode fornece um Ecossistema Integrado, onde o desenvolvedor pode programar para multiplataformas dos dispositivos Apple (iOS, iPadOS, macOS, tvOS e watchOS), promove um Desenvolvimento Eficiente na qual com os recursos como Auto Layout e Interface Builder, o Xcode simplifica o design de interfaces responsivas e visualmente atraentes. Por fim há a Colaboração Simplificada que permite o versionamento de projetos através do Git integrado que garante uma experiência coesa, mesmo em projetos complexos.
 
 </div>
 
