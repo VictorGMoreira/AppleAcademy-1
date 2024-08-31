@@ -19,11 +19,9 @@
 </div> 
 
 <h6>Linguagem utilizada</h6>
-![SwiftUI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SwiftUI_Logo.svg/1024px-SwiftUI_Logo.svg.png)
-
 <div>
 
-   <img   height="70m"src="https://icons8.com.br/icon/_BTyk4vBumjx/swiftui"/>
+   <img   height="70m"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SwiftUI_Logo.svg/1024px-SwiftUI_Logo.svg.png"/>
 
 </div>
 
