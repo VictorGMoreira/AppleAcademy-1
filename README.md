@@ -99,10 +99,6 @@
 - [Integrante 2](https://github.com/integrante2)
 - [Integrante 3](https://github.com/integrante3)
 
-<div style="text-align: center; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; background-color: #f8f8f8; max-width: 400px; margin: auto;">
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
-
 <style>
   hr {
     border: 0;
@@ -111,4 +107,10 @@
     margin: 20px 0; /* Margem superior e inferior */
   }
 </style>
+
+
+<div style="text-align: center; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; background-color: #f8f8f8; max-width: 400px; margin: auto;">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
+
 
