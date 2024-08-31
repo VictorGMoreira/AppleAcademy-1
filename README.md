@@ -83,7 +83,7 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 20%; margin: auto; margin-bottom: 20px;">
-  <h5>GitHub dos integrantes da equipe</h5>
+  <h5>GitHub dos integrantes da equipe:</h5>
 </div>
 
 - [Integrante 1](https://github.com/integrante1)
