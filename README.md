@@ -8,11 +8,9 @@
   <strong>Equipe 10 - Apple Academy IFCE</strong>
 </div>
 
-
 <h5>O que é CBL (Challenge Based Learning)?</h5>
 
-
->A metodologia de Aprendizagem Baseada em Casos (CBL) é uma      abordagem educacional que se concentra na aprendizagem ativa e no desenvolvimento de habilidades de resolução de problemas. Nesta metodologia, os estudantes são expostos a casos ou situações do mundo real que representam desafios ou questões complexas relacionadas ao conteúdo do curso. Os alunos são incentivados a analisar, discutir e resolver esses casos, aplicando conhecimentos teóricos anteriores, pesquisando informações adicionais e colaborando com seus colegas.
+>A metodologia de Aprendizagem Baseada em Casos (CBL) é uma abordagem educacional que se concentra na aprendizagem ativa e no desenvolvimento de habilidades de resolução de problemas. Nesta metodologia, os estudantes são expostos a casos ou situações do mundo real que representam desafios ou questões complexas relacionadas ao conteúdo do curso. Os alunos são incentivados a analisar, discutir e resolver esses casos, aplicando conhecimentos teóricos anteriores, pesquisando informações adicionais e colaborando com seus colegas.
 
 <h5>💡Big idea</h5>
 
@@ -24,9 +22,7 @@
 
 >Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.
 
-
 ![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
-
 
 <h5>💻Plataforma de desenvolvimento:</h5>
 
@@ -34,17 +30,13 @@
     <img height="70" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode"/>
 </div>
 
-
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-
 
   >O Xcode fornece um Ecossistema Integrado, onde o desenvolvedor pode programar para multiplataformas dos dispositivos Apple (iOS, iPadOS, macOS, tvOS e watchOS), promove um Desenvolvimento Eficiente na qual com os recursos como Auto Layout e Interface Builder, o Xcode simplifica o design de interfaces responsivas e visualmente atraentes. Por fim há a Colaboração Simplificada que permite o versionamento de projetos através do Git integrado que garante uma experiência coesa, mesmo em projetos complexos.
 
 </div>
 
-
 <h5>💬Linguagem utilizada</h5>
-
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI"/>
@@ -68,7 +60,6 @@
 
 </div>
 
-
 <h5>👨‍🏫Plataforma de planejamento do App</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
@@ -82,7 +73,7 @@
 </div>
 
 <h5>Wireframe</h5>
-[Wireframe]("https://www.figma.com/file/OgP9hsPgyjRwvPQkAYXhe2?node-id=0%3A1")
+<a href="https://www.figma.com/file/OgP9hsPgyjRwvPQkAYXhe2?node-id=0%3A1">Wireframe</a>
 
 <h5>GitHub dos integrantes da equipe</h5>
 
@@ -93,7 +84,3 @@
 <div style="text-align: center; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; background-color: #f8f8f8; max-width: 400px; margin: auto;">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
-
-
-<img height="70" src="https://www.figma.com/file/OgP9hsPgyjRwvPQkAYXhe2?node-id=0%3A1" alt="Xcode"/>
-
