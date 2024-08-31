@@ -13,7 +13,11 @@
 <h6>Ferramentas</h6>
 
 <div>
-  ![Notion Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png)
-![Xcode Logo](https://upload.wikimedia.org/wikipedia/commons/9/9d/Xcode_icon.png)
+ div>
+  <img height="70m"src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/>
+  <img height="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
+</div> 
+
+
+![Xcod (https://upload.wikimedia.org/wikipedia/commons/9/9d/Xcode_icon.png)
   
-</div>
