@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
 
-<div style="text-align: center;">
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo"/>
 </div>
 
@@ -32,7 +32,3 @@
 - [Integrante 1](https://github.com/integrante1)
 - [Integrante 2](https://github.com/integrante2)
 - [Integrante 3](https://github.com/integrante3)
-
-
-
-
