@@ -24,10 +24,4 @@
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div> 
 
-<h6>Linguagem utilizada</h6>
-
-<div>
-    <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
-</div>
-
 
