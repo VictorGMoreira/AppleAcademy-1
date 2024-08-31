@@ -7,7 +7,7 @@
 </div>
 
 
-<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 80%; margin: auto; margin-bottom: 20px;">
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
   <strong>Equipe 10 - Apple Academy IFCE</strong>
 </div>
 
