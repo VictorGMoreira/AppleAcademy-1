@@ -20,6 +20,8 @@
 >Turismo.
 <h5>🧑‍🦼‍➡️Challenge</h5>
 
+<hr>
+
 >Tornar o turismo mais acessível para pessoa com deficiência física.
 <h5>📌 Qual seria nossa Solução?</h5>
 
