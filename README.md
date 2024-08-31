@@ -28,3 +28,9 @@
 <div>
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div>
+
+## Visualize meu Notion
+
+Você pode visualizar meu Notion clicando no link abaixo:
+
+[Veja meu Notion aqui](https://www.notion.so/seu-link-aqui)
