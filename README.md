@@ -30,4 +30,8 @@
 - [Integrante 2](https://github.com/integrante2)
 - [Integrante 3](https://github.com/integrante3)
 
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto;">
+  <strong>Equipe 10 - Apple Academy IFCE</strong>
+</div>
+
 
