@@ -34,3 +34,5 @@
 Você pode visualizar meu Notion clicando no link abaixo:
 
 [Veja meu Notion aqui](https://www.notion.so/seu-link-aqui)
+
+[Veja meu Notion](https://www.notion.so/seu-link-aqui)
