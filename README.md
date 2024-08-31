@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
 
 <div style="text-align: center;">
@@ -24,11 +25,13 @@
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div> 
 
-<div>
-  <img height"70m" src" https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",<h6> GitHub dos integrantes da equipe</h6>
-
-- [Integrante 1](https://github.com/integrante1)
-- [Integrante 2](https://github.com/integrante2)
-- [Integrante 3](https://github.com/integrante3)
-
+<div style="display: flex; align-items: center;">
+    <img height="70" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo"/>
+    <h6 style="margin-left: 10px;">GitHub dos integrantes da equipe</h6>
 </div>
+
+<ul>
+    <li><a href="https://github.com/integrante1">Integrante 1</a></li>
+    <li><a href="https://github.com/integrante2">Integrante 2</a></li>
+    <li><a href="https://github.com/integrante3">Integrante 3</a></li>
+</ul>
