@@ -10,7 +10,7 @@
 <p>Tornar o turismo mais acessível para pessoa com deficiência física</p>
 <h6>Qual seria nossa Solução?</h6>
 <p>Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário. </p>
-<h6>Ferramentas</h6>
+<h6>Ferramentas utilizadas</h6>
 
 <div>
   <img height="70m"src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/>
@@ -18,7 +18,12 @@
   <img height="70m"src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"/> 
 </div> 
 
+<h6>Linguagem utilizada</h6>
+<div>
 
+<img height="70m"src="https://img.icons8.com/?size=100&id=3cCrxzZF7LfB&format=png&color=000000"/>
+
+</div>
 
 
   
