@@ -2,7 +2,10 @@
 
 <div style="text-align: center;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo"/>
-    <h1>Apple Academy</h1>
+</div>
+
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto;">
+  <strong>Equipe 10 - Apple Academy IFCE</strong>
 </div>
 
 <h6>O que é CBL (Challenge Based Learning)?</h6>
@@ -30,8 +33,6 @@
 - [Integrante 2](https://github.com/integrante2)
 - [Integrante 3](https://github.com/integrante3)
 
-<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto;">
-  <strong>Equipe 10 - Apple Academy IFCE</strong>
-</div>
+
 
 
