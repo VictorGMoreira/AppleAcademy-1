@@ -28,7 +28,7 @@
 ![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
 
 
-<h6>💻Plataforma de desenvolvimento:</h6>
+<h5>💻Plataforma de desenvolvimento:</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode"/>
@@ -43,7 +43,7 @@
 </div>
 
 
-<h6>💬Linguagem utilizada</h6>
+<h5>💬Linguagem utilizada</h5>
 
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
@@ -51,37 +51,39 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <h5>O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.</h5>
+
+  >O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
 
 </div>
 
-<h6>👨‍💻Plataforma de desenvolvimento das Telas</h6>
+<h5>👨‍💻Plataforma de desenvolvimento das Telas</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <h5>Figma foi usado para a criação das Telas</h5>
+
+  >Figma foi usado para a criação das Telas.
 
 </div>
 
 
-<h6>👨‍🏫Plataforma de planejamento do App</h6>
+<h5>👨‍🏫Plataforma de planejamento do App</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"/>
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <h5>Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores</h5>
+  >Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores
 
 </div>
 
-<h6>Imagens do Aplicativo</h6>
+<h5>Imagens do Aplicativo</h5>
 
 
-<h6>GitHub dos integrantes da equipe</h6>
+<h5>GitHub dos integrantes da equipe</h5>
 
 - [Integrante 1](https://github.com/integrante1)
 - [Integrante 2](https://github.com/integrante2)
