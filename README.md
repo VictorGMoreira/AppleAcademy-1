@@ -24,7 +24,7 @@
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div> 
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo") GitHub dos integrantes da equipe
+<img height"70m" src" https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",<h6> GitHub dos integrantes da equipe</h6>
 
 - [Integrante 1](https://github.com/integrante1)
 - [Integrante 2](https://github.com/integrante2)
