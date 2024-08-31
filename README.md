@@ -24,10 +24,11 @@
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div> 
 
-<img height"70m" src" https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",<h6> GitHub dos integrantes da equipe</h6>
+<div>
+  <img height"70m" src" https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",<h6> GitHub dos integrantes da equipe</h6>
 
 - [Integrante 1](https://github.com/integrante1)
 - [Integrante 2](https://github.com/integrante2)
 - [Integrante 3](https://github.com/integrante3)
 
-
+</div>
