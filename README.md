@@ -8,7 +8,7 @@
   <strong>Equipe 10 - Apple Academy IFCE</strong>
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 50px;">
   <img src="https://github.com/user-attachments/assets/d42b83f8-9137-438a-bfcc-8303cd7c8cee" alt="TourTrack" style="width: 50%;"/>
 </div>
 
