@@ -15,7 +15,7 @@
 <h6>Big idea</h6>
 <h5>Turismo</h5>
 <h6>Challenge</h6>
-<p>Tornar o turismo mais acessível para pessoa com deficiência física</p>
+<h5>Tornar o turismo mais acessível para pessoa com deficiência física</h5>
 <h6>Qual seria nossa Solução?</h6>
 <h5>Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.</h5>
 
