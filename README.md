@@ -93,6 +93,10 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 
 <h5>Hi-fi</h5>
 
+```
+print("Ainda em desenvolvimento🧑‍💻")
+```
+
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 40px;">
     <img height="30" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="github" style="margin-bottom: 50px;"/>
 </div>
