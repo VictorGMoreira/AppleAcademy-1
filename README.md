@@ -12,19 +12,19 @@
 
 >A metodologia de Aprendizagem Baseada em Casos (CBL) é uma abordagem educacional que se concentra na aprendizagem ativa e no desenvolvimento de habilidades de resolução de problemas. Nesta metodologia, os estudantes são expostos a casos ou situações do mundo real que representam desafios ou questões complexas relacionadas ao conteúdo do curso. Os alunos são incentivados a analisar, discutir e resolver esses casos, aplicando conhecimentos teóricos anteriores, pesquisando informações adicionais e colaborando com seus colegas.
 
-<h5>💡Big idea</h5>
+<h5>💡 Big idea</h5>
 
 >Turismo.
 <h5>🧑‍🦼‍➡️Challenge</h5>
 
 >Tornar o turismo mais acessível para pessoa com deficiência física.
-<h5>📌Qual seria nossa Solução?</h5>
+<h5>📌 Qual seria nossa Solução?</h5>
 
 >Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.
 
 ![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
 
-<h5>💻Plataforma de desenvolvimento:</h5>
+<h5>💻 Plataforma de desenvolvimento:</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode"/>
@@ -36,7 +36,7 @@
 
 </div>
 
-<h5>💬Linguagem utilizada</h5>
+<h5>💬 Linguagem utilizada</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI"/>
