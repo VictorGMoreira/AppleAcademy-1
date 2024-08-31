@@ -18,7 +18,7 @@
 
 <h5>💡 Big idea</h5>
 
-Swift
+
 ```
 print("Turismo.")
 ```
