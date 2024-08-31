@@ -103,3 +103,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
 
+<style>
+  hr {
+    border: 0;
+    height: 2px;
+    background: #2b604c; /* Cor da linha */
+    margin: 20px 0; /* Margem superior e inferior */
+  }
+</style>
+
