@@ -40,7 +40,7 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <p>O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.</p>
+  <h5>O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.</h5>
 
 </div>
 
