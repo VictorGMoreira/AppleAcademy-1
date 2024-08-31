@@ -22,7 +22,7 @@
 
 >Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.
 
-<img src="URL_DIRETA_DA_IMAGEM_DO_WIREFRAME" alt="Wireframe do projeto"/>
+![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
 
 <h5>💻Plataforma de desenvolvimento:</h5>
 
@@ -71,6 +71,9 @@
   >Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores
 
 </div>
+
+<h5>Wireframe</h5>
+<a href="https://www.figma.com/file/OgP9hsPgyjRwvPQkAYXhe2?node-id=0%3A1">Wireframe</a>
 
 <h5>GitHub dos integrantes da equipe</h5>
 
