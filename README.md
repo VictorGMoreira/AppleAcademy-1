@@ -11,3 +11,9 @@
 <h6>Qual seria nossa Solução?</h6>
 <p>Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário. </p>
 <h6>Ferramentas</h6>
+
+<div>
+  ![Notion Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png)
+![Xcode Logo](https://upload.wikimedia.org/wikipedia/commons/9/9d/Xcode_icon.png)
+  
+</div>
