@@ -107,4 +107,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
 
+``` Swift
+print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar")
+```
 
