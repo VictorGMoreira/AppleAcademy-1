@@ -80,7 +80,13 @@
 
 <h5>GitHub dos integrantes da equipe</h5>
 
-![ GitHub ](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 40px;">
+    <img height="70" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="Apple Logo" style="margin-bottom: 50px;"/>
+</div>
+
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+  <h5>GitHub dos integrantes da equipe</h5>
+</div>
 
 - [Integrante 1](https://github.com/integrante1)
 - [Integrante 2](https://github.com/integrante2)
