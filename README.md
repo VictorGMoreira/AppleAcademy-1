@@ -1,6 +1,6 @@
 <style>
   blockquote {
-    color: #2b604c; /* Verde escuro */
+    color: #2b604c;
     font-style: italic;
     padding: 10px;
     border-left: 5px solid #2b604c;
