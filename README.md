@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
+<img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
 
 <div style="text-align: center;">
     <img height="70" align= "center" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo"/>
