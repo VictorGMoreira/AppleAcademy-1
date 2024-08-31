@@ -42,14 +42,31 @@
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
   <p>O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.</p>
 
+</div>
+
+<h6>Plataforma de desenvolvimento das Telas</h6>
+
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+    <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+</div>
+
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+  <p>Figma</p>
+
+</div>
 
 
-<div>
-    <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/>
-    <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>   
-    <img height="70" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"/> 
-    <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
-</div> 
+<h6>Plataforma planejamento do App</h6>
+
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+    <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"/>
+</div>
+
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+  <p>Notion</p>
+
+</div>
+
 
 <h6>GitHub dos integrantes da equipe</h6>
 
