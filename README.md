@@ -83,3 +83,6 @@
 <div style="text-align: center; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; background-color: #f8f8f8; max-width: 400px; margin: auto;">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
+
+> [!BIG IDEA]
+> SourceKit-LSP does not update its global index in the background or build Swift modules in the background. Thus, a lot of cross-module or global functionality is limited if the project hasn't been built recently. To update the index or rebuild the Swift modules, build your project or enable the experimental background indexing as described in [Enable Experimental Background Indexing](Documentation/Enable%20Experimental%20Background%20Indexing.md).
