@@ -39,6 +39,6 @@
 
 <div style="text-align: center; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; background-color: #f8f8f8; max-width: 400px; margin: auto;">
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1024px-Swift_logo.svg.png" alt="Swift logo" width="50">
+    
 
    
