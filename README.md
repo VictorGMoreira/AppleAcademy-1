@@ -76,6 +76,8 @@
 
 ![Screenshot_20240831_172419_Figma.jpg](https://github.com/user-attachments/assets/75495bf5-9248-4a47-89ba-3e2fca5f5424)
 
+<h5>Hi-fi</h5>
+
 <h5>GitHub dos integrantes da equipe</h5>
 
 - [Integrante 1](https://github.com/integrante1)
