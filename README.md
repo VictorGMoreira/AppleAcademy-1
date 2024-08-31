@@ -30,4 +30,4 @@
 - [Integrante 2](https://github.com/integrante2)
 - [Integrante 3](https://github.com/integrante3)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
+
