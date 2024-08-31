@@ -15,12 +15,13 @@
 <h6>Qual seria nossa Solução?</h6>
 <p>Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.</p>
 
-<h6>Ferramentas utilizadas</h6>
+<h6>Ferramentas e Linguagem utilizada</h6>
 
 <div>
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/>
     <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>   
     <img height="70" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"/> 
+    <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div> 
 
 <h6>Linguagem utilizada</h6>
