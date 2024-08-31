@@ -21,8 +21,28 @@
 
 <h6>Plataforma de desenvolvimento:</h6>
 
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+    <img height="70" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode"/>
+</div>
 
-<h6>Ferramentas e Linguagem utilizada</h6>
+
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+  <p></p>
+
+</div>
+
+
+<h6>Linguagem utilizada</h6>
+
+
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+    <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI"/>
+</div>
+
+<div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+  <p>O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.</p>
+
+
 
 <div>
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/>
