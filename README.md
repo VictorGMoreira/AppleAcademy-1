@@ -8,3 +8,5 @@
 <p>Turismo</p>
 <h6>Challenge</h6>
 <p>Tornar o turismo mais acessível para pessoa com deficiência física</p>
+<h6>Qual seria nossa Solução?</h6>
+<p>Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário. </p>
