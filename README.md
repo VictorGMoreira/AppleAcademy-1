@@ -21,7 +21,7 @@
 <h6>Linguagem utilizada</h6>
 <div>
 
-<img height="70m"src="https://icons8.com.br/icon/_BTyk4vBumjx/swiftui"/>
+   <img   height="70m"src="https://icons8.com.br/icon/_BTyk4vBumjx/swiftui"/>
 
 </div>
 
