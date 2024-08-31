@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
 
-<div align="center" style="padding: 40px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto;">
+<div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo"/>
 </div>
 
