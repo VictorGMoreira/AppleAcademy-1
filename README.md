@@ -76,6 +76,7 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
+
   >Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores
 
 </div>
