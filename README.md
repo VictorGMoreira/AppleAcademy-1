@@ -81,8 +81,8 @@
 
 </div>
 
-<h5>Imagens do Aplicativo</h5>
-
+<h5>Wireframe</h5>
+[Wireframe]("https://www.figma.com/file/OgP9hsPgyjRwvPQkAYXhe2?node-id=0%3A1")
 
 <h5>GitHub dos integrantes da equipe</h5>
 
