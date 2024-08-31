@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460000&height=120&section=header"/>
 
-<div style="text-align: center; margin: 20px 0;">
+<div style="display: flex; flex-direction: column; align-items: center; margin: 20px 0;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo"/>
     <h1 style="margin: 0;">Apple Academy</h1>
 </div>
@@ -28,4 +28,3 @@
 <div style="text-align: center;">
     <img height="70" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div>
-
