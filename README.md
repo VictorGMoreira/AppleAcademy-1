@@ -41,11 +41,4 @@
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1024px-Swift_logo.svg.png" alt="Swift logo" width="50">
 
-    <h3 style="margin-top: 20px;">O por que usar SwitchUI?</h3>
-
-    <p style="font-size: 16px; color: #333;">
-        O motivo de usarmos o Swift como linguagem foi por conta de atividades curriculares, mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
-    </p>
-
-</div>
-
+   
