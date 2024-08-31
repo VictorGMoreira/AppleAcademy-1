@@ -15,7 +15,7 @@
 <div>
   <img height="70m"src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/>
   <img height="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   
-  <img height="70m"src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xcode_icon.png"/> 
+  <img height="70m"src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"/> 
 </div> 
 
 
