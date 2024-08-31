@@ -21,7 +21,7 @@
 print("Turismo.")
 ```
 
-<h5>🧑‍🦼‍➡️Challenge</h5>
+<h5>🧑‍🦼‍➡️ Challenge</h5>
 
 ```
 print("Tornar o turismo mais acessível para pessoa com deficiência física.")
@@ -60,7 +60,7 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 </div>
 
 
-<h5>👨‍💻Plataforma de desenvolvimento das Telas</h5>
+<h5>👨‍💻 Plataforma de desenvolvimento das Telas</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
@@ -72,7 +72,7 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 
 </div>
 
-<h5>👨‍🏫Plataforma de planejamento do App</h5>
+<h5>👨‍🏫 Plataforma de planejamento do App</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"/>
@@ -91,7 +91,7 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 
 
 <h5>Hi-fi</h5>
-<hr>
+
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 40px;">
     <img height="30" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="github" style="margin-bottom: 50px;"/>
 </div>
