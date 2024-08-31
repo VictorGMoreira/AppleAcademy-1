@@ -56,7 +56,7 @@
 </div>
 
 
-<h6>Plataforma planejamento do App</h6>
+<h6>Plataforma de planejamento do App</h6>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"/>
