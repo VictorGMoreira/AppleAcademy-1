@@ -11,7 +11,6 @@
 <h6>Big idea</h6>
 ```
 Turismo
-
 ```
 <h6>Challenge</h6>
 <p>Tornar o turismo mais acessível para pessoa com deficiência física</p>
