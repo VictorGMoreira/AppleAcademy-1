@@ -80,6 +80,8 @@
 
 <h5>GitHub dos integrantes da equipe</h5>
 
+![ GitHub ](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+
 - [Integrante 1](https://github.com/integrante1)
 - [Integrante 2](https://github.com/integrante2)
 - [Integrante 3](https://github.com/integrante3)
@@ -87,3 +89,4 @@
 <div style="text-align: center; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; background-color: #f8f8f8; max-width: 400px; margin: auto;">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
+
