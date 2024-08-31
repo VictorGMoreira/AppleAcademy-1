@@ -74,7 +74,6 @@
 
 <h5>Wireframe</h5>
 
-<img src="https://www.figma.com/file/OgP9hsPgyjRwvPQkAYXhe2?node-id=0%3A1" alt="Wireframe do projeto"/>
 
 <h5>GitHub dos integrantes da equipe</h5>
 
