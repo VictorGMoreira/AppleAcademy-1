@@ -21,7 +21,7 @@
 <h6>Linguagem utilizada</h6>
 
 <div>
-   <img   height="70m"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SwiftUI_Logo.svg/1024px-SwiftUI_Logo.svg.png"/>
+   <img   height="70m"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SwiftUI_Logo.svg/1024px-SwiftUI_Logo.svg"/>
 </div>
 
 
