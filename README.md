@@ -1,14 +1,3 @@
-<style>
-  blockquote {
-    color: #2b604c;
-    font-style: italic;
-    padding: 10px;
-    border-left: 5px solid #2b604c;
-    background-color: #f0f8f5;
-    margin: 20px 0;
-  }
-</style>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2b604c&height=120&section=header"/>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 40px;">
@@ -21,23 +10,23 @@
 
 <h5>O que é CBL (Challenge Based Learning)?</h5>
 
-<blockquote>
-  A metodologia de Aprendizagem Baseada em Casos (CBL) é uma abordagem educacional que se concentra na aprendizagem ativa e no desenvolvimento de habilidades de resolução de problemas. Nesta metodologia, os estudantes são expostos a casos ou situações do mundo real que representam desafios ou questões complexas relacionadas ao conteúdo do curso. Os alunos são incentivados a analisar, discutir e resolver esses casos, aplicando conhecimentos teóricos anteriores, pesquisando informações adicionais e colaborando com seus colegas.
-</blockquote>
+<p style="color:#2b604c;">
+    A metodologia de Aprendizagem Baseada em Casos (CBL) é uma abordagem educacional que se concentra na aprendizagem ativa e no desenvolvimento de habilidades de resolução de problemas. Nesta metodologia, os estudantes são expostos a casos ou situações do mundo real que representam desafios ou questões complexas relacionadas ao conteúdo do curso. Os alunos são incentivados a analisar, discutir e resolver esses casos, aplicando conhecimentos teóricos anteriores, pesquisando informações adicionais e colaborando com seus colegas.
+</p>
 
 <h5>💡Big idea</h5>
 
-<blockquote>Turismo.</blockquote>
+<p style="color:#2b604c;">Turismo.</p>
 
 <h5>🧑‍🦼‍➡️Challenge</h5>
 
-<blockquote>Tornar o turismo mais acessível para pessoa com deficiência física.</blockquote>
+<p style="color:#2b604c;">Tornar o turismo mais acessível para pessoa com deficiência física.</p>
 
 <h5>📌Qual seria nossa Solução?</h5>
 
-<blockquote>
-  Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.
-</blockquote>
+<p style="color:#2b604c;">
+    Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.
+</p>
 
 ![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
 
@@ -48,9 +37,9 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <blockquote>
+  <p style="color:#2b604c;">
     O Xcode fornece um Ecossistema Integrado, onde o desenvolvedor pode programar para multiplataformas dos dispositivos Apple (iOS, iPadOS, macOS, tvOS e watchOS), promove um Desenvolvimento Eficiente na qual com os recursos como Auto Layout e Interface Builder, o Xcode simplifica o design de interfaces responsivas e visualmente atraentes. Por fim há a Colaboração Simplificada que permite o versionamento de projetos através do Git integrado que garante uma experiência coesa, mesmo em projetos complexos.
-  </blockquote>
+  </p>
 </div>
 
 <h5>💬Linguagem utilizada</h5>
@@ -60,9 +49,9 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <blockquote>
+  <p style="color:#2b604c;">
     O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
-  </blockquote>
+  </p>
 </div>
 
 <h5>👨‍💻Plataforma de desenvolvimento das Telas</h5>
@@ -72,7 +61,7 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <blockquote>Figma foi usado para a criação das Telas.</blockquote>
+  <p style="color:#2b604c;">Figma foi usado para a criação das Telas.</p>
 </div>
 
 <h5>👨‍🏫Plataforma de planejamento do App</h5>
@@ -82,7 +71,7 @@
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  <blockquote>Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores</blockquote>
+  <p style="color:#2b604c;">Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores</p>
 </div>
 
 <h5>Wireframe</h5>
@@ -98,5 +87,5 @@
 - [Integrante 3](https://github.com/integrante3)
 
 <div style="text-align: center; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; background-color: #f8f8f8; max-width: 400px; margin: auto;">
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
+</div>
