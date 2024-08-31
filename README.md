@@ -6,6 +6,9 @@
     <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo" style="margin-bottom: 50px;"/>
 </div>
 
+
+
+
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
   <strong>Equipe 10 - Apple Academy IFCE</strong>
 </div>
