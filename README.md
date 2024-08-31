@@ -14,16 +14,16 @@
 
 <h6>💡Big idea</h6>
 <h5>Turismo</h5>
-<h6>Challenge</h6>
+<h6>🧑‍🦼‍➡️Challenge</h6>
 <h5>Tornar o turismo mais acessível para pessoa com deficiência física</h5>
-<h6>Qual seria nossa Solução?</h6>
+<h6>📌Qual seria nossa Solução?</h6>
 <h5>Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.</h5>
 
 
 ![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
 
 
-<h6>Plataforma de desenvolvimento:</h6>
+<h6>💻Plataforma de desenvolvimento:</h6>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode"/>
@@ -36,7 +36,7 @@
 </div>
 
 
-<h6>Linguagem utilizada</h6>
+<h6>💬Linguagem utilizada</h6>
 
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
@@ -48,7 +48,7 @@
 
 </div>
 
-<h6>Plataforma de desenvolvimento das Telas</h6>
+<h6>👨‍💻Plataforma de desenvolvimento das Telas</h6>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
@@ -60,7 +60,7 @@
 </div>
 
 
-<h6>Plataforma de planejamento do App</h6>
+<h6>👨‍🏫Plataforma de planejamento do App</h6>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
     <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"/>
