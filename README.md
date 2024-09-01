@@ -115,9 +115,4 @@ print("Ainda em desenvolvimento🧑‍💻")
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 40px 0;">
-    <div style="flex-grow: 1; height: 1px; background-color: black;"></div>
-    <div style="padding: 0 10px; background-color: white; font-weight: bold;">Seu Texto Aqui</div>
-    <div style="flex-grow: 1; height: 1px; background-color: black;"></div>
-</div>
 
