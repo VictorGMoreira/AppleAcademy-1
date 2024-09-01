@@ -32,9 +32,11 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 
 >Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.
 
-\*Logo do Aplicativo
+
 
 ![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
+
+
 
 <h5>💻 Plataforma de desenvolvimento:</h5>
 
@@ -47,6 +49,7 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
   >O Xcode fornece um Ecossistema Integrado, onde o desenvolvedor pode programar para multiplataformas dos dispositivos Apple (iOS, iPadOS, macOS, tvOS e watchOS), promove um Desenvolvimento Eficiente na qual com os recursos como Auto Layout e Interface Builder, o Xcode simplifica o design de interfaces responsivas e visualmente atraentes. Por fim há a Colaboração Simplificada que permite o versionamento de projetos através do Git integrado que garante uma experiência coesa, mesmo em projetos complexos.
 
 </div>
+
 
 <h5>💬 Linguagem utilizada</h5>
 
@@ -61,6 +64,7 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 </div>
 
 
+
 <h5>👨‍💻 Plataforma de desenvolvimento das Telas</h5>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
@@ -72,6 +76,8 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
   >Figma foi usado para a criação das Telas.
 
 </div>
+
+
 
 <h5>👨‍🏫 Plataforma de planejamento do App</h5>
 
@@ -86,9 +92,12 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 </div>
 
 
+
 <h5>Wireframe</h5>
 
 ![Screenshot_20240831_172419_Figma.jpg](https://github.com/user-attachments/assets/75495bf5-9248-4a47-89ba-3e2fca5f5424)
+
+
 
 
 <h5>Hi-fi</h5>
@@ -96,6 +105,8 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 ```
 print("Ainda em desenvolvimento🧑‍💻")
 ```
+
+
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 40px;">
     <img height="30" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="github" style="margin-bottom: 50px;"/>
