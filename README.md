@@ -117,7 +117,7 @@ print("Ainda em desenvolvimento🧑‍💻")
 <div style="position: relative; text-align: center; margin: 40px 0;">
   <hr style="border: 1px solid #000; margin: 0;">
   <span style="position: absolute; top: -10px; left: 50%; transform: translateX(-50%); background-color: #fff; padding: 0 10px;">
-    Seu Texto Aqui
+    tudo bem
   </span>
 </div>
 
