@@ -114,10 +114,5 @@ print("Ainda em desenvolvimento🧑‍💻")
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b604cCD&height=120&section=footer"/>
 
 
-<div style="position: relative; text-align: center; margin: 40px 0;">
-  <hr style="border: 1px solid #000; margin: 0;">
-  <span style="position: absolute; top: -10px; left: 50%; transform: translateX(-50%); background-color: #FE9600; padding: 0 10px;">
-    tudo bem
-  </span>
-</div>
+
 
