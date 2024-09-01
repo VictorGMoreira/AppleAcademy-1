@@ -32,7 +32,7 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 
 >Tornaríamos o acesso ao turismo mais inclusivo para pessoas com deficiência física através de um aplicativo, com uma rota turística ligando os principais pontos turísticos, baseados no interesse do usuário.
 
-\*Logo do Aplicativo*\
+\*Logo do Aplicativo
 
 ![TourTrack_20240831_152920_0000.png](https://github.com/user-attachments/assets/f5f09751-3aa3-4316-b46d-2102d0df2ac8)
 
