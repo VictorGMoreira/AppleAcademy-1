@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 <div align="center" style="padding: 10px; background-color: transparent; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 60px;">
-    <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo" style="margin-bottom: 50px;"/>
+    <img height="80" src="https://www.icloud.com/system/icloud.com/2420Hotfix12/pt-br/4f72d89d71e9abcc4e37c71fb77fe65b.svg" alt="Apple Logo" style="margin-bottom: 50px;"/>
 </div>
 
 
