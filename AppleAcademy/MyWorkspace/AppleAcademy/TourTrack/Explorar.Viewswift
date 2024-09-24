@@ -1,0 +1,18 @@
+//
+//  Explorar.swift
+//  TourTrack
+//
+//  Created by found on 02/08/24.
+//
+
+import SwiftUI
+
+struct Explorar: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    Explorar()
+}
