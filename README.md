@@ -106,7 +106,7 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 
 
 ```
-print("Ainda em desenvolvimento🧑‍💻")
+print("em desenvolvimento🧑‍💻")
 ```
 
 
